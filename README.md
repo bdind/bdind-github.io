@@ -15,7 +15,7 @@
 
 			var xScale = d3.scaleLinear().domain().range()
 
-			d3.json('http://127.0.0.1:8887/streets.json', function(error, data){
+			d3.json('streets.json', function(error, data){
 				console.log(data[0])
 				console.log(data[1]);
 			});
