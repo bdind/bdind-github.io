@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<script src="https://d3js.org/d3.v3.min.js"></script>
-		<title>Project 1 - Brandon Downer</title>
+		<title>Project 1 - B.Downer</title>
 	</head>
 
 	<body>
